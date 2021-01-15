@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Summer</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>(000) 111-2222</phone_number>
+	<notes>Weird Girl</notes>
+</contact>
+<contact>
+	<first_name>Jerry</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>(000) 111-0000</phone_number>
+	<notes>Nice</notes>
+</contact>
+<contact>
+	<first_name>Morty</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>(000) 111-1111</phone_number>
+	<notes>Morty waves</notes>
+</contact>
+<contact>
+	<first_name>Beth</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>(000) 111-3333</phone_number>
+	<notes>Forgettable name</notes>
+</contact>
+<contact>
+	<first_name>Rick</first_name>
+	<last_name>Sanchez</last_name>
+	<phone_number>(000) 000-0000</phone_number>
+	<notes>Wubba lubba dub dub</notes>
+</contact>
+<contact>
+	<first_name>First</first_name>
+	<last_name>Last</last_name>
+	<phone_number>(123) 456-7891</phone_number>
+	<notes>Date added: 01/15/2021</notes>
+</contact>
+</contacts>
